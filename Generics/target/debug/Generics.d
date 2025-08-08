@@ -1,0 +1,1 @@
+/home/xpeng/RustFromZero/Generics/target/debug/Generics: /home/xpeng/RustFromZero/Generics/src/main.rs /home/xpeng/RustFromZero/Generics/src/utils/equal.rs /home/xpeng/RustFromZero/Generics/src/utils/mod.rs
